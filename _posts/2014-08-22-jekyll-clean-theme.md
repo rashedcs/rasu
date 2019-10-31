@@ -14,6 +14,8 @@ published: true
 Vivamus porttitor porta tortor at ullamcorper. Proin vel nisi magna. Vivamus vel velit laoreet, malesuada nunc nec, pulvinar velit. Vivamus sollicitudin ex quam, sit amet aliquet velit euismod in. Etiam rutrum augue orci, sed euismod risus vehicula eu. Proin quis velit mattis, sodales erat vitae, condimentum nulla. Vestibulum vitae imperdiet ligula. Etiam venenatis ultrices varius.
 
 ![Socrates-Quotes-1.jpg]({{site.baseurl}}/_posts/Socrates-Quotes-1.jpg)
+![License Badge]({{ site.baseurl}}/images/cc_by_88x31.png)
+
 
 
 Vestibulum vulputate nulla hendrerit velit tempor, et fringilla urna placerat. In hac habitasse platea dictumst. Vestibulum sit amet molestie tortor, eu posuere magna. Donec rhoncus pharetra urna sed tempor. Aliquam erat volutpat. Nulla facilisi. Nam at ante condimentum, egestas massa sed, auctor orci. Aenean tincidunt, turpis et venenatis finibus, orci urna tempor ex, at mattis nisi nisi varius nisl. Pellentesque diam libero, dignissim vel nisl ut, placerat pharetra felis.
